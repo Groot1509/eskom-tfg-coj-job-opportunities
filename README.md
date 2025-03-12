@@ -1,4 +1,4 @@
-<p><span style="font-size:26pt;font-family:Arial,sans-serif;">Find the Best Jobs in South Africa Eskom, TFG and City of Johannesburg Are Hiring</span></p>
+<H1><span style="font-size:26pt;font-family:Arial,sans-serif;">Find the Best Jobs in South Africa Eskom, TFG and City of Johannesburg Are Hiring</span></H1>
 <p><span style="font-size:11pt;font-family:Arial,sans-serif;">Are you looking for a stable and rewarding job in South Africa? Eskom, The Foschini Group (TFG), and the City of Johannesburg are some of the country&rsquo;s top employers, offering great career opportunities in energy, retail, and government sectors. With competitive salaries, excellent benefits, and career growth potential, these organizations are the perfect place to build your future.</span></p>
 <ol>
     <li style="list-style-type:decimal;font-size:11pt;font-family:Arial,sans-serif;">
